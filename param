@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: param
+# contributor: Simon Unge
+# key: param
+# --
+<param>
+  <name>$0</name>
+</param>

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Operational Mode
+# contributor: Simon Unge
+# key: operationalMode
+# --
+<operationalMode>
+  $0
+</operationalMode>

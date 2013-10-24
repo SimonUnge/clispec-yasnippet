@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: callback
+# contributor: Simon Unge
+# key: callback
+# --
+<callback>
+  <${1:callback$(yas-choose-value '("capi"
+                                   "exec"
+                                   "table"
+                                   "execStop"))}>
+    $0
+  </$1>
+</callback>

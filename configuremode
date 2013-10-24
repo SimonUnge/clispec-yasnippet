@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Configure Mode
+# contributor: Simon Unge
+# key: configureMode
+# --
+<configureMode>
+  $0
+</configureMode>
